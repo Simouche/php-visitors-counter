@@ -1,0 +1,9 @@
+CREATE DATABASE usersLogged;
+
+USE usersLogged;
+
+CREATE TABLE users(
+ID INT;
+SESSION_ VARCHAR(255);
+TIME INT(11)
+);
